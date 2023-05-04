@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:3002Users/chongwei/Desktop/School_Life/UChicago_Grad/DIGS%2020005/VS/hello_world.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3002Users/chongwei/Desktop/School_Life/UChicago_Grad/DIGS%2020005/VS/hello_world.html"
+        }
+    ]
+}
