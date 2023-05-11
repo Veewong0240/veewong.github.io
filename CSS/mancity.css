@@ -1,8 +1,10 @@
 body {
-    color: #6CABDD; 
+    background-color: #6CABDD;
 }
 h1 {
     color: #ffffff;
 }
 
-
+button{
+    color: rgba(0, 255, 255, 0.576);
+}
